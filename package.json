@@ -1,0 +1,26 @@
+{
+  "name": "javascript-iv",
+  "version": "1.0.0",
+  "description": "This challenge focuses on classes in JavaScript using the new `class` keyword.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigograca31/JavaScript-IV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigograca31/JavaScript-IV/issues"
+  },
+  "homepage": "https://github.com/rodrigograca31/JavaScript-IV#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "nyc": "^14.1.1"
+  }
+}
